@@ -4,3 +4,5 @@ The files of this repo are based on this tutorial: [Python Game Development Cour
  ](https://www.youtube.com/watch?v=FfWpgLFMI7w)
 
 The icons copyright can be found in page: [Flaticon](https://www.flaticon.com/)
+
+The backgroung image copyright is from [Freepik](https://www.freepik.com/free-vector/gradient-galaxy-background_14658088.htm)
