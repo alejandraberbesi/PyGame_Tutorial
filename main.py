@@ -26,6 +26,13 @@ enemy_y=random.randint(50,150) #0 is upper limit
 enemy_xchange=0.8
 enemy_ychange=40
 
+#shooting initial config
+shoot_img=pygame.image.load('images/stars.png') # 32 pixels
+shoot_x=0
+shoot_y=520
+shoot_xchange=0.8
+shoot_ychange=40
+
 def player(x,y):
     screen.blit(player_img,(x,y)) 
 
