@@ -75,7 +75,7 @@ def fire_stars(x,y):
     screen.blit(shoot_img,(x+45,y)) #stars appears at center of spaceship
 
 def is_collision(enemy_x,enemy_y,shoot_x,shoot_y):
-    distance=math.sqrt(math.pow(enemy_x-shoot_x,2) +math.pow(enemy_y-shoot_y,2))
+    distance=math.sqrt((math.pow(enemy_x-shoot_x,2)) +(math.pow(enemy_y-shoot_y,2)))
     if distance<27:
         return True
     else:
