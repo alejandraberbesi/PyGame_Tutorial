@@ -8,7 +8,7 @@ The icons copyright can be found in [Flaticon](https://www.flaticon.com/)
 The backgroung image copyright is from [Freepik](https://www.freepik.com/free-vector/gradient-galaxy-background_14658088.htm)
 
 ## Game Screenshot
-![Screenshot](game_image.png)
+<img src="game_image.png" width="480" height="300">
 
 ## Game Gif
 ![Gif](space_invaders2022.gif)
